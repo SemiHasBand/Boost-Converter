@@ -14,3 +14,5 @@ At the test 1, I set a 50Mohms resistor with NMOS W/L=1, L=1um, PMOS W/L=4, L=1u
 The results show that both PNMOS operates in subth.
 Although operating points seems a bit concerning, if the corner and dc sweep is stable, it may still be acceptable for use.
 
+Exp result: DC sweep is activate in 1.5 to 3V, tt 25 is correct (ff -10, ss 110: 1.797, ff 110: 1.801, ss -10: 1.799)
+
